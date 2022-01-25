@@ -3,6 +3,8 @@ body {
   height: 100%;
   font-family: "Raleway", sans-serif;
   color: white;
+  margin: 0 !important;
+  padding: 0;
 }
 body {
   margin: 0;
